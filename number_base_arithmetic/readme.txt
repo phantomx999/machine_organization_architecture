@@ -7,7 +7,7 @@ Allows addition and subtraction with different base numbers
 (from base 2 to base 36)
 
 for example:
-./bignum 4 12 + 13
+./bignum_math 4 12 + 13
 Result: 31
 
 Here two numbers of 12 and 13 both in base 4 are added and the result is given
